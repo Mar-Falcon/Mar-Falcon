@@ -11,12 +11,11 @@
 * React.Js
 * API REST
 * TypeScript
-* Responsive Design
 * Boostrap
 
-#### Responsive 💻 📱:
+#### Responsive Design 💻 📱
 
-#### Link :🔗:
+#### Linkedin 🔗:
 https://www.linkedin.com/in/marina-falcon/
 
 
