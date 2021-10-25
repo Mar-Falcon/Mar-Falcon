@@ -4,24 +4,27 @@
 
 Trabajando en diversos proyectos colaborativos e individuales.
 ***
-#### __Herramientas y lenguajes__:
+#### __Tecnologías__:
 
 * HTML5
 * CSS3
 * Sass
-* Javascript
+* JavaScript
 * React.Js
 * API REST
 * TypeScript
-* Boostrap
+* Bootstrap
 
-#### Responsive Design 💻 📱
+#### Responsive Design  📱 💻 
+
 
 #### Linkedin 🔗:
 https://www.linkedin.com/in/marina-falcon/
 
+
 ***
-Me fascina poder conectarme con diferentes personas de diversos lugares 🌎 , así que si quieres ¡Vamos a conectarnos! 
+
+Encantada de poder conectar con personas de diferentes lugares 🌎 ¡Contáctame! 
 
 
 
