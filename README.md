@@ -17,10 +17,11 @@ Trabajando en diversos proyectos colaborativos e individuales.
 
 #### Responsive Design  📱 💻 
 
-
 #### Linkedin 🔗:
 https://www.linkedin.com/in/marina-falcon/
 
+#### Deployed:
+https://portfolio-m-falcon.netlify.app/
 
 ***
 
