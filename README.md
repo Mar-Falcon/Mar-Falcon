@@ -1,10 +1,10 @@
-# Hello! Soy Marina Falcon ✨
+# Hello! I´m Marina Falcon ✨
 
 ## 💻 Front-End Jr Developer 
 
-Trabajando en diversos proyectos colaborativos e individuales.
+Working on various collaborative and individual projects.
 ***
-#### __Tecnologías__:
+#### __Technologies__:
 
 * HTML5
 * CSS3
@@ -25,7 +25,6 @@ https://portfolio-m-falcon.netlify.app/
 
 ***
 
-Encantada de poder conectar con personas de diferentes lugares 🌎 ¡Contáctame! 
-
+Delighted to be able to connect with people from different places 🌎 Contact me!
 
 
