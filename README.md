@@ -18,8 +18,8 @@ Working on various collaborative and individual projects.
 #### Responsive Design  📱 💻 
 
 #### Idioms
-Native Spanish
-English
+*Native Spanish
+*English
 
 #### Linkedin 🔗:
 https://www.linkedin.com/in/marina-falcon/
