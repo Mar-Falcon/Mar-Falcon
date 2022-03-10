@@ -4,7 +4,7 @@
 
 Working on various collaborative and individual projects.
 ***
-#### __Technologies__:
+#### __Skills__:
 
 * HTML5
 * CSS3
@@ -16,6 +16,10 @@ Working on various collaborative and individual projects.
 * Bootstrap
 
 #### Responsive Design  📱 💻 
+
+#### Idioms
+Native Spanish
+English
 
 #### Linkedin 🔗:
 https://www.linkedin.com/in/marina-falcon/
