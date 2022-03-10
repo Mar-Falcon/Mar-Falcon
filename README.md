@@ -22,8 +22,6 @@ Native Spanish
 English
 
 #### Linkedin 🔗:
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-linkedin.svg)](https://forthebadge.com)
 https://www.linkedin.com/in/marina-falcon/
 
 #### Deployed:
