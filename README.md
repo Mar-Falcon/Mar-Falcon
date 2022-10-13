@@ -14,6 +14,9 @@ Working on various collaborative and individual projects.
 * API REST
 * TypeScript
 * Bootstrap
+* Next.Js
+* Python
+* Git
 
 #### Responsive Design  📱 💻 
 
