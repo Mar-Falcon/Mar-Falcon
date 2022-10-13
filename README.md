@@ -12,6 +12,7 @@ Working on various collaborative and individual projects.
 * JavaScript
 * React.Js
 * API REST
+* Firebase
 * TypeScript
 * Bootstrap
 * Next.Js
