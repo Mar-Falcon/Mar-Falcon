@@ -21,7 +21,7 @@ Working on various collaborative and individual projects.
 
 #### Responsive Design  📱 💻 
 
-#### __Idioms__:
+#### __Languages__:
 
 * Native Spanish
 * English
@@ -29,7 +29,7 @@ Working on various collaborative and individual projects.
 #### Linkedin 🔗:
 https://www.linkedin.com/in/marina-falcon/
 
-#### Deployed:
+#### Deploy:
 https://portfolio-m-falcon.netlify.app/
 
 ***
