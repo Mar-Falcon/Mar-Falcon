@@ -1,6 +1,6 @@
 # Hello! I´m Marina Falcon ✨
 
-## 💻 FrontEnd Developer Jr
+## 💻 Web Developer 
 
 Working on various collaborative and individual projects.
 ***
