@@ -18,6 +18,7 @@ Working on various collaborative and individual projects.
 * Next.Js
 * Python
 * Git
+* Vercel
 
 #### Responsive Design  📱 💻 
 
