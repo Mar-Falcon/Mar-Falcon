@@ -26,6 +26,7 @@ Working on various collaborative and individual projects.
 
 * Native Spanish
 * English
+* Italian
 
 #### Linkedin 🔗:
 https://www.linkedin.com/in/marina-falcon/
